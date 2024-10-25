@@ -1,0 +1,11 @@
+{
+  "name": "dropship-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for dropship website",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  }
+}
