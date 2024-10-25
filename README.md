@@ -104,14 +104,44 @@ frontend/
 - GET /api/orders - Lijst van alle orders
 - POST /api/orders - Nieuwe order aanmaken
 
-## To-Do List
-- [ ] Implementeer AliExpress API integratie
-- [ ] Voeg automatische prijsberekening toe
-- [ ] Implementeer order tracking systeem
-- [ ] Voeg voorraad synchronisatie toe
-- [ ] Implementeer automatische order fulfillment
-- [ ] Voeg gebruikersauthenticatie toe
-- [ ] Implementeer dashboard met statistieken
+## Roadmap & To-Do List
+
+### Fase 1: Marktanalyse Tool
+- [ ] AliExpress bestsellers scraping
+- [ ] Amazon/eBay prijzen scraping
+- [ ] Winstmarge calculator
+- [ ] Trends analyse
+- [ ] Kansrijke producten identificatie
+- [ ] Product research dashboard
+
+### Fase 2: Frontend Website
+- [ ] Responsive product catalogus
+- [ ] Winkelwagen functionaliteit
+- [ ] Checkout proces
+- [ ] User interface design
+- [ ] SEO optimalisatie
+- [ ] Mobile-first approach
+
+### Fase 3: AliExpress Integratie
+- [ ] Product import systeem
+- [ ] Voorraad synchronisatie
+- [ ] Automatische prijsupdates
+- [ ] Order plaatsing automatisering
+- [ ] Tracking nummer integratie
+
+### Fase 4: Order Management
+- [ ] Order tracking systeem
+- [ ] Klant notificaties
+- [ ] Email automation
+- [ ] Order fulfillment systeem
+- [ ] Retour management
+
+### Fase 5: Dashboard & Analytics
+- [ ] Verkoop statistieken
+- [ ] Winstmarge tracking
+- [ ] Customer analytics
+- [ ] Marketing ROI monitoring
+- [ ] Trend rapportages
 
 ## Bijdragen
 Pull requests zijn welkom. Voor grote wijzigingen, open eerst een issue om te bespreken wat je wilt veranderen.
